@@ -1,0 +1,88 @@
+[
+  {
+    "recipe_image": "https://i.ibb.co/51GVg8Z/imresizer-1710685527938.jpg",
+    "recipe_id": 1,
+    "recipe_name": "Garlic Butter",
+    "short_description": "A quick and flavorful seafood dish with succulent shrimp cooked",
+    "ingredients": [
+      "500 g shrimp,",
+      "4 cloves garlic",
+      "1/4 cup unsalted",
+      "Salt and pepper"
+    ],
+    "preparing_time": "20 min",
+    "calories": 280
+  },
+  {
+    "recipe_image": "https://i.ibb.co/JmhQbFr/imresizer-1710685048550.jpg",
+    "recipe_id": 2,
+    "recipe_name": "Caprese Salad",
+    "short_description": "A refreshing Italian salad made with ripe tomatoes, fresh mozzarella.",
+    "ingredients": [
+      "4 large ripe tomatoes",
+      "1/4 cup fresh basil ",
+      "2 tablespoons ",
+      "Salt and pepper to "
+    ],
+    "preparing_time": "10 min",
+    "calories": 180
+  },
+  {
+    "recipe_image": "https://i.ibb.co/dk0MGsr/imresizer-1710587176705.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Vegetable Fry",
+    "short_description": "A colorful and nutritious stir-fry dish packed with assorted.",
+    "ingredients": [
+      "200 g tofu",
+      "1 red bell pepper",
+      "1 cup broccoli",
+      "2 tablespoons water"
+    ],
+    "preparing_time": "25 min",
+    "calories": 220
+  },
+  {
+    "recipe_image": "https://i.ibb.co/9vSKVWr/imresizer-1710587209910.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Pasta Carbonara",
+    "short_description": "A classic Italian pasta dish featuring spaghetti tossed in a creamy sauce.",
+    "ingredients": [
+      "400 g spaghetti",
+      "200 g bacon,",
+      "4 eggs",
+      "Chopped parsley"
+    ],
+    "preparing_time": "30 min",
+    "calories": 480
+  },
+  {
+    "recipe_image": "https://i.ibb.co/fnRfvhn/pexels-ella-olsson-1640771.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Salsa Chicken",
+    "short_description": "Tender grilled chicken breasts topped with a vibrant mango salsa bursting.",
+    "ingredients": [
+      "2 ripe mangoes",
+      "1 red bell pepper",
+      "1 jalapeno",
+      "Juice of 2 limes",
+      "Salt and pepper"
+    ],
+    "preparing_time": "25 min",
+    "calories": 320
+  },
+  
+  {
+    "recipe_image": "https://i.ibb.co/2552fSP/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg",
+    "recipe_id": 6,
+    "recipe_name": "Quinoa Salad",
+    "short_description": "A nutritious and satisfying salad made with protein-packed quinoa.",
+    "ingredients": [
+      "1 cup quinoa, ",
+      "2 cups vegetable ",
+      "Juice of 1 lemon",
+      "2 tablespoons  "
+    ],
+    "preparing_time": "15 min",
+    "calories": 250
+  }
+]
